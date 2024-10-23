@@ -1,3 +1,3 @@
-print ;"hert"
+print ("hert")
 
 
